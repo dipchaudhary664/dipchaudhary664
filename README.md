@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/dipchaudhary664" target="blank"><img src="https://img.shields.io/twitter/follow/dipchaudhary664?logo=twitter&style=for-the-badge" alt="dipchaudhary664" /></a> </p>
 
-- 🔭 I’m currently Work on my final year project **Nepali Thai Phrase**
+- 🔭 I’m currently Work on my  project **Nepali Thai Phrase**
 
 - 🌱 I’m currently learning **JavaScript, React Js and React Native**
 
